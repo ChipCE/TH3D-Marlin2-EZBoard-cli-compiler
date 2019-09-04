@@ -18,7 +18,7 @@ Open <code>cmd</code> and type <code>pip install platformio</code> then press <b
 
 ## 4.Download compile script
 
-Download the [compile-cli.py](https://github.com/ChipTechno/TH3D-Marlin2-EZBoard-cli-compiler/blob/master/compile-cli.py) file and put it in the <code>TH3D-Unified-U2.R1</code> folder.
+Download the [compile-cli.py](https://raw.githubusercontent.com/ChipTechno/TH3D-Marlin2-EZBoard-cli-compiler/master/compile-cli.py) file and put it in the <code>TH3D-Unified-U2.R1</code> folder.
 
 ## 5.Run the compile script
 
