@@ -8,13 +8,13 @@ Download the [TH3D-Unified-U2.R1 firmware](https://github.com/houseofbugs/TH3D-U
 
 Download python from [Python homepage](https://www.python.org/downloads/) and install it. Remember to check the <code>Add Python 3.7 to PATH</code> option.  
 
-![alt text](./img/img-00.png "Python installer")
+![alt text](https://github.com/ChipTechno/TH3D-Marlin2-EZBoard-cli-compiler/blob/master//img/img-00.png "Python installer")
 
 ## 3.Install platformio core
 
 Open <code>cmd</code> and type <code>pip install platformio</code> then press <button>ENTER</button>.  
 
-![alt text](./img/img-01.png "platformio installer")
+![alt text](https://github.com/ChipTechno/TH3D-Marlin2-EZBoard-cli-compiler/blob/master//img/img-01.png "platformio installer")
 
 ## 4.Download compile script
 
