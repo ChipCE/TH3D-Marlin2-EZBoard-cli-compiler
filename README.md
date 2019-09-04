@@ -22,4 +22,4 @@ Download the [compile-cli.py](https://raw.githubusercontent.com/ChipTechno/TH3D-
 
 ## 5.Run the compile script
 
-Double click the <code>compile-cli.py</code> and wait for the compile to complete. The firmware file will be copy to <code>Bin</code> folder.
+Double click the <code>compile-cli.py</code> file and wait for the compiling to complete. The firmware file will be copy to <code>Bin</code> folder.
