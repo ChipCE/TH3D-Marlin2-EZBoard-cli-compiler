@@ -23,3 +23,7 @@ Download the [compile-cli.py](https://raw.githubusercontent.com/ChipTechno/TH3D-
 ## 5.Run the compile script
 
 Double click the <code>compile-cli.py</code> file and wait for the compiling to complete. The firmware file will be copy to <code>Bin</code> folder.
+
+![alt text](https://github.com/ChipTechno/TH3D-Marlin2-EZBoard-cli-compiler/blob/master//img/compile.png "compile")
+
+![alt text](https://github.com/ChipTechno/TH3D-Marlin2-EZBoard-cli-compiler/blob/master//img/img-03.png "bin")
